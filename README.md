@@ -42,3 +42,19 @@ The page shows:
 
   2.	Open index.html in your browser to see the 404 page.
 	3.	Update the link inside:
+<a href="/" class="link_404">Go to Home</a>
+
+to redirect users to your homepage.
+
+⸻
+
+🎨 Customization
+	•	Replace Bit blowy out.gif with your own animated GIF or background image.
+	•	Edit style.css to tweak colors, fonts, or layout.
+	•	Change error text/messages inside index.html.
+
+⸻
+
+📜 License
+
+This project is open-source and available under the MIT License.
