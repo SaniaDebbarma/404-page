@@ -24,7 +24,8 @@ It displays an animated GIF background with a clean design to let users know whe
 
 ## 🖼️ Preview
 Screenshot ---
-![preview](
+![preview](screenshot.jpg)
+![preview](screenshot_.jpg)
 
 
 The page shows:
